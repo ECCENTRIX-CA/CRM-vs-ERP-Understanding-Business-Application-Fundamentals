@@ -1,0 +1,1 @@
+# CRM-vs-ERP-Understanding-Business-Application-Fundamentals
