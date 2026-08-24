@@ -1,4 +1,7 @@
 # CRM-vs-ERP-Understanding-Business-Application-Fundamentals
+
+> 💡 **Original Publication:** This article was originally published on [Eccentrix Corner](https://www.eccentrix.ca/en/eccentrix-corner/understanding-crm-and-erp-beyond-the-acronyms/). Go there for the latest updates and to explore more technical content.
+
 Business applications serve distinct yet complementary roles in modern organizations. Through delivering both Dynamics 365 [CRM (MB-910)](https://www.eccentrix.ca/en/courses/microsoft/dynamics-365/microsoft-certified-dynamics-365-fundamentals-crm-mb910/) and [ERP (MB-920)](https://www.eccentrix.ca/en/courses/microsoft/dynamics-365/microsoft-certified-dynamics-365-fundamentals-erp-mb920/) fundamentals courses, we've gathered practical insights into how these systems work together effectively.
 
 ## CRM Systems in Practice
